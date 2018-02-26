@@ -38,8 +38,7 @@ img.profile {
 .box {
 	display: inline-block;
 	font-family: 'Georgia', serif;
-	color: #cccccc;
-	font-color: #000000;
+	color: #000000;
 	font-size: 18px;
 	margin: 0 auto;
 	background-image: url('../cs191-291/wood_1.png');
